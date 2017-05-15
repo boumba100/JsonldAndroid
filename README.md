@@ -12,7 +12,7 @@ Click ``` File → New → Import Module``` and select the jsonldAndroid module.
 The step above will add ```':jsonldAndroid'```  to the settings.gradle file as shown below.
 
 ```gradle
-include ':app', ':wstompclient'
+include ':app', ':jsonldAndroid'
 ```
 To compile the library in your application simply add this line to the project's build.gradle file.
 
