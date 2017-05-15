@@ -1,4 +1,4 @@
-# JsonlAndroid
+# JsonldAndroid
 
 This is a Java/Android implementation of the JSON-LD specification and the JSON-LD-API specification. The main structure of the project has been taken from https://github.com/jsonld-java/jsonld-java. This project has been altered to support android devices and also now includes the URDNA2015 algorithm for normalization. 
 
